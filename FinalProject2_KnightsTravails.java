@@ -95,7 +95,7 @@ class Board {
 	
 }
 
-public class FinalProject2 {
+public class FinalProject2_KnightsTravails {
 	public static void main (String[] args){
 		Board x = new Board(8);
 	
