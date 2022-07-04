@@ -739,7 +739,7 @@ class BankingSoftware {
 		}
 	}
 }
-public class FinalProject{
+public class FinalProject_BankingSoftware{
 	public static void main (String args[]) {
 		BankingSoftware Vince = new BankingSoftware();
 		Vince.BankOperation();
